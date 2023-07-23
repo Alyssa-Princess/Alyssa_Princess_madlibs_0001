@@ -14,4 +14,6 @@ It's not really worth stealing, to be honest, but it might be fun to laugh at.
 
 Please be kind! 
 
+I am aware of the gramatical errors (mostly spacing and quotations missing) but I plan to make a better version of this soon that is more polised. 
+
 To run the game, you need to open the madlibs.exe file. I have no idea if the computer will think it's a virus or not, but seriously. It's FINE.

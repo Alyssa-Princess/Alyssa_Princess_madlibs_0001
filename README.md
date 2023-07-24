@@ -1,8 +1,8 @@
-# celebmadlib1
+# madlibs project #1 
 
 Just a silly project I did for Youtube
 
-(will add the link once uploaded) 
+https://youtu.be/NOVtZMm6JMg
 
 Hey, this is Alyssa, the person who made the game. 
 

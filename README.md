@@ -2,7 +2,7 @@
 
 Just a silly project I did for Youtube
 
-https://youtu.be/NOVtZMm6JMg
+https://youtu.be/yUWxEXA-IQY
 
 Hey, this is Alyssa, the person who made the game. 
 

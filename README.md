@@ -1,4 +1,4 @@
-# madlibs project #1 
+# Madlibs Project #1 
 
 Just a silly project I did for Youtube
 

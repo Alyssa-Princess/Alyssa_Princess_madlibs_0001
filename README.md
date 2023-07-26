@@ -1,4 +1,4 @@
-# Madlibs Project #1 
+# Madlibs 
 
 Teach a Celebrity Something - MADLIBS 
 

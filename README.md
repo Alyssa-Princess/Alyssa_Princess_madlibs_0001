@@ -1,6 +1,5 @@
 # Madlibs 
 
-Teach a Celebrity Something - MADLIBS 
 
 I made a funny video about it, if you want to watch: 
 https://www.youtube.com/watch?v=yUWxEXA-IQY&t=321s
@@ -17,3 +16,10 @@ enter "py madlibs.py", which should run the code.
 
 Try to make your answers as silly as possible for the best results!  
 
+---------------------------------------------------------
+Versions Overview: 
+
+In case you want a hint about the stories.
+
+Version 0.1 : Teach a Celebrity Something 
+Version 0.2 : COMING SOON 

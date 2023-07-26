@@ -1,6 +1,6 @@
 # Madlibs Project #1 
 
-Just a silly project I did for Youtube
+Just a silly project I did for Youtube. 
 
 https://youtu.be/yUWxEXA-IQY
 

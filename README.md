@@ -3,7 +3,7 @@
 Teach a Celebrity Something - MADLIBS 
 
 I made a funny video about it, if you want to watch: 
-https://www.youtube.com/watch?v=yUWxEXA-IQY&t=320s
+https://www.youtube.com/watch?v=yUWxEXA-IQY&t=321s
 ![hownottocodemadlibsthumbnail](https://github.com/Alyssa-Princess/Alyssa_Princess_madlibs_0001/assets/94188320/f8cf9853-373c-44d6-8461-1c41eef31a96)
 
 This was my FIRST attempt ever at a MadLibs project in Python.

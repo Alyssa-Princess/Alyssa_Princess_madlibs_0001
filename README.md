@@ -7,7 +7,7 @@ I made another go at this madlibs creation thing and tried to add considerations
 that choice was made. However, the first princess' name doesn't cover that problem despite my best efforts. Either way, it was fun to write another
 silly story. I hope you enjoy. Do keep in mind I am still learning and with each new version of this I make, I hope it's a little better than the one before. 
 
-Also, I am going to be released a narrated version of this madlibs on YouTube soon with ai generated images. I will link it here when ready. 
+Also, I am going to be releasing a narrated version of this madlibs on YouTube soon with ai generated images. I will link it here when ready. 
 
 
 

@@ -1,10 +1,6 @@
 # Madlibs 
 
 
-I made a funny video about it, if you want to watch: 
-https://www.youtube.com/watch?v=yUWxEXA-IQY&t=321s
-![hownottocodemadlibsthumbnail](https://github.com/Alyssa-Princess/Alyssa_Princess_madlibs_0001/assets/94188320/f8cf9853-373c-44d6-8461-1c41eef31a96)
-
 
 VERSION 0.2: 
 I made another go at this madlibs creation thing and tried to add considerations for fruit types like changing 'blueberrys' to 'blueberries' in case
@@ -21,6 +17,15 @@ VERSION 0.1:
 This was my FIRST attempt ever at a MadLibs project in Python.
 
 I DID NOT use a tutorial and had no prior experience before this. 
+
+
+I made a funny video about it, if you want to watch: 
+https://www.youtube.com/watch?v=yUWxEXA-IQY&t=321s
+![hownottocodemadlibsthumbnail](https://github.com/Alyssa-Princess/Alyssa_Princess_madlibs_0001/assets/94188320/f8cf9853-373c-44d6-8461-1c41eef31a96)
+
+
+
+
 
 I plan to make a better version of this soon that is more polished. 
 

@@ -22,4 +22,4 @@ Versions Overview:
 In case you want a hint about the stories.
 
 Version 0.1 : Teach a Celebrity Something  
-Version 0.2 : COMING SOON 
+Version 0.2 : A Fruity Princess 
